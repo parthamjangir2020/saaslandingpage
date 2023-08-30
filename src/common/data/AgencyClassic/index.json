@@ -1,0 +1,478 @@
+{
+    "menuItems": [
+      {
+        "label": "Home",
+        "path": "#banner_section",
+        "offset": "0"
+      },
+      {
+        "label": "Product",
+        "path": "#product_section",
+        "offset": "0"
+      },
+      {
+        "label": "Testimonial",
+        "path": "#testimonial_section",
+        "offset": "0"
+      },
+      {
+        "label": "About",
+        "path": "#about_section",
+        "offset": "0"
+      }
+    ],
+  
+    "clients": [
+      "../../assets/image/agencyClassic/clients/evernote.svg",
+      "../../assets/image/agencyClassic/clients/Google.svg",
+      "../../assets/image/agencyClassic/clients/dribble.svg",
+      "../../assets/image/agencyClassic/clients/microsoft.svg",
+      "../../assets/image/agencyClassic/clients/Paypal.svg",
+      "../../assets/image/agencyClassic/clients/Uber.svg"
+    ],
+  
+    "features": [
+      {
+        "icon": "../../assets/image/agencyClassic/services/search.png",
+        "title": "Digital Strategy",
+        "description":
+          "We start each new digital product design partnershipwith an in‑depth discovery phase to immerse ourselves in your business."
+      },
+      {
+        "icon": "../../assets/image/agencyClassic/services/user-experience.png",
+        "title": "User Experience",
+        "description":
+          "We start each new digital product design partnershipwith an in‑depth discovery phase to immerse ourselves in your business."
+      },
+      {
+        "icon": "../../assets/image/agencyClassic/services/logo.png",
+        "title": "Branding",
+        "description":
+          "We start each new digital product design partnershipwith an in‑depth discovery phase to immerse ourselves in your business."
+      },
+      {
+        "icon": "../../assets/image/agencyClassic/services/coding.png",
+        "title": "Development",
+        "description":
+          "We start each new digital product design partnershipwith an in‑depth discovery phase to immerse ourselves in your business."
+      },
+      {
+        "icon": "../../assets/image/agencyClassic/services/theme.png",
+        "title": "Web Design",
+        "description":
+          "We start each new digital product design partnershipwith an in‑depth discovery phase to immerse ourselves in your business."
+      },
+      {
+        "icon": "../../assets/image/agencyClassic/services/creative.png",
+        "title": "Product Position",
+        "description":
+          "We start each new digital product design partnershipwith an in‑depth discovery phase to immerse ourselves in your business."
+      }
+    ],
+  
+    "support": [
+      "../../assets/image/agencyClassic/support/person1.svg",
+      "../../assets/image/agencyClassic/support/person2.svg",
+      "../../assets/image/agencyClassic/support/person3.svg",
+      "../../assets/image/agencyClassic/support/person4.svg",
+      "../../assets/image/agencyClassic/support/person5.svg",
+      "../../assets/image/agencyClassic/support/person6.svg",
+      "../../assets/image/agencyClassic/support/person1.svg",
+      "../../assets/image/agencyClassic/support/person2.svg",
+      "../../assets/image/agencyClassic/support/person3.svg",
+      "../../assets/image/agencyClassic/support/person4.svg",
+      "../../assets/image/agencyClassic/support/person5.svg",
+      "../../assets/image/agencyClassic/support/person6.svg"
+    ],
+  
+    "casestudy": [
+      {
+        "image": "../../assets/image/agencyClassic/caseStudy/image1.png",
+        "subheading": "Branding",
+        "heading": "Improving a business titan through design & strategy"
+      },
+      {
+        "image": "../../assets/image/agencyClassic/caseStudy/image2.png",
+        "subheading": "User Interface",
+        "heading": "Bringing a modern mobile experience to learning"
+      },
+      {
+        "image": "../../assets/image/agencyClassic/caseStudy/image3.png",
+        "subheading": "Redesign Chellange",
+        "heading": "Delivering digital excellence by simplifying the customer experience anytime"
+      },
+      {
+        "image": "../../assets/image/agencyClassic/caseStudy/image4.png",
+        "subheading": "User Experience",
+        "heading": "Art Direction for leading Melbourne publishing company"
+      }
+    ],
+  
+    "testimonials": [
+      {
+        "title": "Modern look & trending design",
+        "review":
+          "OMG! I cannot believe that I have got a brand new landing page after getting this template we are able to use our most used e-commerce template with modern and trending design. We deliver on such an expansive with innovation agenda with so many theme projects.",
+        "name": "Johnny Simpson",
+        "designation": "Head of Design by GeekWire",
+        "avatar": "../../assets/image/agencyClassic/testimonial/img.png",
+        "brand": "../../assets/image/agencyClassic/testimonial/logo.png"
+      },
+      {
+        "title": "Modern look & trending design",
+        "review":
+          "OMG! I cannot believe that I have got a brand new landing page after getting this template we are able to use our most used e-commerce template with modern and trending design. We deliver on such an expansive with innovation agenda with so many theme projects.",
+        "name": "Johnny Simpson",
+        "designation": "Head of Design by GeekWire",
+        "avatar": "../../assets/image/agencyClassic/testimonial/img.png",
+        "brand": "../../assets/image/agencyClassic/testimonial/logo.png"
+      },
+      {
+        "title": "Modern look & trending design",
+        "review":
+          "OMG! I cannot believe that I have got a brand new landing page after getting this template we are able to use our most used e-commerce template with modern and trending design. We deliver on such an expansive with innovation agenda with so many theme projects.",
+        "name": "Johnny Simpson",
+        "designation": "Head of Design by GeekWire",
+        "avatar": "../../assets/image/agencyClassic/testimonial/img.png",
+        "brand": "../../assets/image/agencyClassic/testimonial/logo.png"
+      }
+    ],
+  
+    "team": [
+      {
+        "title": "Professional Environment",
+        "description":
+          "We enjoy office retreats and visit famous places of our country and abroad also! We have planned to extend our business."
+      },
+      {
+        "title": "Worked with experienced team",
+        "description":
+          "With more than 100,000 users, we are is growing fast. Currently, we are a team of 65+ people"
+      },
+      {
+        "title": "Automate your marketing",
+        "description":
+          "With more than 100,000 users, we are is growing fast. Currently, we are a team of 65+ people"
+      },
+      {
+        "title": "Ultimate skill development",
+        "description":
+          "Life is what happens when you’re busy working. We make sure you enjoy it with ultimate experience."
+      },
+      {
+        "title": "Flexible working experience",
+        "description":
+          "We build amazing things that work with awesome people who are WordPress enthusiasts, talented, eager to learn."
+      },
+      {
+        "title": "Reach the right people",
+        "description":
+          "We build amazing things that work with awesome people who are WordPress enthusiasts, talented, eager."
+      }
+    ],
+  
+    "marketing": [
+      {
+        "image": "../../assets/image/agencyClassic/marketing/img1.png",
+        "date": "December 15, 2021",
+        "title": "How to Boost Your Response Rate with this Simple Copywriting Trick easily & workfully"
+      },
+      {
+        "image": "../../assets/image/agencyClassic/marketing/img2.png",
+        "date": "January 24, 2022",
+        "title": "Need podcast branding advice? These Spotify marketing pros can help"
+      },
+      {
+        "image": "../../assets/image/agencyClassic/marketing/img3.png",
+        "date": "February 11, 2022",
+        "title": "4 ways to make podcast analytics part of your show’s growth strategy"
+      },
+      {
+        "image": "../../assets/image/agencyClassic/marketing/img4.png",
+        "date": "September 18, 2022",
+        "title": "How to use Q&A and Polls to increase audience engagement for your podcast"
+      }
+    ],
+  
+    "faq": [
+      {
+        "expend": true,
+        "title": "What is the process of project final delivery system?",
+        "description":
+          "Our core members created this place for Designers, Developers, Product Owners, Marketing Managers, Startupers, Freelancers and really for everyone who appreciates fine designs and well-crafted sites. We want to inspire and support you in the process of creating your own unique website projects."
+      },
+      {
+        "expend": true,
+        "title": "What is payment process, believe in upfront?",
+        "description":
+          "Our core members created this place for Designers, Developers, Product Owners, Marketing Managers, Startupers, Freelancers and really for everyone who appreciates fine designs and well-crafted sites. We want to inspire and support you in the process of creating your own unique website projects."
+      },
+      {
+        "expend": true,
+        "title": "What is the process of project final delivery system?",
+        "description":
+          "Our core members created this place for Designers, Developers, Product Owners, Marketing Managers, Startupers, Freelancers and really for everyone who appreciates fine designs and well-crafted sites. We want to inspire and support you in the process of creating your own unique website projects."
+      },
+      {
+        "expend": true,
+        "title": "Estimate project budget for categories?",
+        "description":
+          "Our core members created this place for Designers, Developers, Product Owners, Marketing Managers, Startupers, Freelancers and really for everyone who appreciates fine designs and well-crafted sites. We want to inspire and support you in the process of creating your own unique website projects."
+      },
+      {
+        "expend": true,
+        "title": "All about project customization & monitaization",
+        "description":
+          "Our core members created this place for Designers, Developers, Product Owners, Marketing Managers, Startupers, Freelancers and really for everyone who appreciates fine designs and well-crafted sites. We want to inspire and support you in the process of creating your own unique website projects."
+      }
+    ],
+  
+    "footer": [
+      {
+        "id": 1,
+        "title": "About Us",
+        "list": [
+          {
+            "id": 1,
+            "title": "Support Center",
+            "link": "#"
+          },
+          {
+            "id": 2,
+            "title": "Customer Support",
+            "link": "#"
+          },
+          {
+            "id": 3,
+            "title": "About Us",
+            "link": "#"
+          },
+          {
+            "id": 4,
+            "title": "Copyright",
+            "link": "#"
+          },
+          {
+            "id": 5,
+            "title": "Popular Campaign",
+            "link": "#"
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "title": "Data Policy",
+        "list": [
+          {
+            "id": 1,
+            "title": "Our Data",
+            "link": "#"
+          },
+          {
+            "id": 2,
+            "title": "Verify Your Website",
+            "link": "#"
+          },
+          {
+            "id": 3,
+            "title": "Browser Extension",
+            "link": "#"
+          },
+          {
+            "id": 4,
+            "title": "Privacy and Security",
+            "link": "#"
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "title": "Our Information",
+        "list": [
+          {
+            "id": 1,
+            "title": "Return Policy ",
+            "link": "#"
+          },
+          {
+            "id": 2,
+            "title": "Privacy Policy",
+            "link": "#"
+          },
+          {
+            "id": 3,
+            "title": "Terms & Conditions",
+            "link": "#"
+          },
+          {
+            "id": 4,
+            "title": "Site Map",
+            "link": "#"
+          },
+          {
+            "id": 5,
+            "title": "Store Hours",
+            "link": "#"
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "title": "My Account",
+        "list": [
+          {
+            "id": 1,
+            "title": "Press inquiries",
+            "link": "#"
+          },
+          {
+            "id": 2,
+            "title": "Social media ",
+            "link": "#"
+          },
+          {
+            "id": 3,
+            "title": "directories",
+            "link": "#"
+          },
+          {
+            "id": 4,
+            "title": "Images & B-roll",
+            "link": "#"
+          },
+          {
+            "id": 5,
+            "title": "Permissions",
+            "link": "#"
+          }
+        ]
+      }
+    ],
+    
+    "contact_info": [
+      {
+        "title": "Contact info",
+        "address": "Mohakhali DOHS, Amsterdam, Netherlands",
+        "phone": "+31 62 19 22 705",
+        "openingTime": "7 Days - 8am - 10pm",
+        "email": "info@redqteam.com"
+      }
+    ],
+    
+    "footer_nav": [
+      {
+        "id": 1,
+        "title": "Legal",
+        "link": "#"
+      },
+      {
+        "id": 2,
+        "title": "Changelog",
+        "link": "#"
+      },
+      {
+        "id": 3,
+        "title": "Support",
+        "link": "#"
+      }
+    ],
+    
+    "footer_widget": [
+      {
+        "title": "About Us",
+        "menuItems": [
+          {
+            "url": "#",
+            "text": "Support Center"
+          },
+          {
+            "url": "#",
+            "text": "Customer Support"
+          },
+          {
+            "url": "#",
+            "text": "About Us"
+          },
+          {
+            "url": "#",
+            "text": "Copyright"
+          },
+          {
+            "url": "#",
+            "text": "Popular Campaign"
+          }
+        ]
+      },
+      {
+        "title": "Our Information",
+        "menuItems": [
+          {
+            "url": "#",
+            "text": "Return Policy"
+          },
+          {
+            "url": "#",
+            "text": "Privacy Policy"
+          },
+          {
+            "url": "#",
+            "text": "Terms & Conditions"
+          },
+          {
+            "url": "#",
+            "text": "Site Map"
+          },
+          {
+            "url": "#",
+            "text": "Store Hours"
+          }
+        ]
+      },
+      {
+        "title": "My Account",
+        "menuItems": [
+          {
+            "url": "#",
+            "text": "Press inquiries"
+          },
+          {
+            "url": "#",
+            "text": "Social media directories"
+          },
+          {
+            "url": "#",
+            "text": "Images & B-roll"
+          },
+          {
+            "url": "#",
+            "text": "Permissions"
+          },
+          {
+            "url": "#",
+            "text": "Speaker requests"
+          }
+        ]
+      },
+      {
+        "title": "Policy",
+        "menuItems": [
+          {
+            "url": "#",
+            "text": "Application security"
+          },
+          {
+            "url": "#",
+            "text": "Software principles"
+          },
+          {
+            "url": "#",
+            "text": "Unwanted software policy"
+          },
+          {
+            "url": "#",
+            "text": "Responsible supply chain"
+          }
+        ]
+      }
+    ]  
+  }
